@@ -1,5 +1,15 @@
+*Migrated to [simnalamburt/npm:packages/xsalsa20-csprng]*
+--------
+This repo has been migrated to the [simnalamburt/npm:packages/xsalsa20-csprng].
+
+[simnalamburt/npm:packages/xsalsa20-csprng]: https://github.com/simnalamburt/npm/tree/master/packages/xsalsa20-csprng
+
+&nbsp;
+
+&nbsp;
+
 xsalsa20-csprng [![NPM Version]][NPM Link]
-========
+--------
 CSPRNG and crypto library powered by XSalsa20. Small, fast, supports both
 browsers and Node.js, and optimized for CSPRNG usage.
 
